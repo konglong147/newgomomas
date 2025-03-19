@@ -20,8 +20,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	_ "github.com/sagernet/gomobile/bind/java"
-	_seq "github.com/sagernet/gomobile/bind/seq"
+	_ "github.com/konglong147/newgomomas/bind/java"
+	_seq "github.com/konglong147/newgomomas/bind/seq"
 )
 
 func init() {

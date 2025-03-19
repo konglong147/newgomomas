@@ -17,9 +17,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/sagernet/gomobile/internal/importers"
-	"github.com/sagernet/gomobile/internal/importers/java"
-	"github.com/sagernet/gomobile/internal/importers/objc"
+	"github.com/konglong147/newgomomas/internal/importers"
+	"github.com/konglong147/newgomomas/internal/importers/java"
+	"github.com/konglong147/newgomomas/internal/importers/objc"
 	"golang.org/x/tools/go/packages"
 )
 

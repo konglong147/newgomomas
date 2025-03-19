@@ -19,7 +19,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/sagernet/gomobile/internal/importers"
+	"github.com/konglong147/newgomomas/internal/importers"
 )
 
 type parser struct {

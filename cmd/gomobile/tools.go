@@ -5,5 +5,5 @@
 package main
 
 import (
-	_ "github.com/sagernet/gomobile/cmd/gobind"
+	_ "github.com/konglong147/newgomomas/cmd/gobind"
 )
